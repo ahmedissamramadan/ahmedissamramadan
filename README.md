@@ -16,9 +16,21 @@
 ---
 
 ## 🚀 About Me | نبذة عني
+
 I build AI-powered brands, content pipelines, and automation systems tailored for the MENA region. I help businesses scale by bridging the gap between brand design, marketing strategy, and autonomous technical workflows.
 
 أقوم ببناء وتصميم الهويات البصرية، وأنظمة صناعة المحتوى، وأتمتة العمليات المعقدة باستخدام تقنيات الذكاء الاصطناعي في منطقة الشرق الأوسط وشمال إفريقيا. أساعد الشركات على النمو والتحول الرقمي بربط التصميم المبتكر بالأنظمة البرمجية المستقلة.
+
+---
+
+## 💼 Client Case Studies | حالات دراسية (عملاء حقيقيون)
+
+I have developed high-performance digital portfolios and web applications for professionals across various industries:
+
+*   **[Nagaty](https://github.com/ahmedissamramadan/nagaty)**: Emerging Markets Fintech & M&A Advisor Platform.
+*   **[Youstina Hany](https://github.com/ahmedissamramadan/youstinahany)**: Digital Marketing Instructor Portfolio.
+*   **[Hisham A. Elqenawy](https://github.com/ahmedissamramadan/hishamelqenawy)**: Medical Supply Chain & Procurement Portfolio.
+*   **[Ahmed Gouda](https://github.com/ahmedissamramadan/ahmedgoda)**: Interior Design & Renovation Portfolio.
 
 ---
 
@@ -71,6 +83,3 @@ My unified professional portfolio and agency landing page. Built with native per
 ### 2. ⚡ [AIR](https://github.com/ahmedissamramadan/AIR)
 Next-generation AI-native web platform. It serves as my primary deployment lab for intelligent features, workflow routing, and automated media systems.
 > المنصة البرمجية المتقدمة لإنتاج وتسيير العمليات المؤتمتة وأنظمة توليد الوسائط بالذكاء الاصطناعي.
-
----
-*(Note: Please pin only the above 2 repositories on your GitHub profile overview page.)*
