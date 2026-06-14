@@ -1,5 +1,5 @@
 # Ahmed Issam Ramadan | أحمد عصام رمضان
-### Founder & AI Automation Systems Engineer @ VentureCycle Studio
+### Founder & Advanced AI Practitioner @ VentureCycle Studio
 
 <p align="left">
   <a href="https://ahmedissamramadan.github.io" target="_blank">
@@ -17,9 +17,9 @@
 
 ## 🚀 About Me | نبذة عني
 
-I build AI-powered brands, content pipelines, and automation systems tailored for the MENA region. I help businesses scale by bridging the gap between brand design, marketing strategy, and autonomous technical workflows.
+I use AI tools at an advanced level to craft brand identities, content systems, and web experiences for MENA clients. I bridge the gap between AI-powered production and real business outcomes — fast, strategic, and client-ready.
 
-أقوم ببناء وتصميم الهويات البصرية، وأنظمة صناعة المحتوى، وأتمتة العمليات المعقدة باستخدام تقنيات الذكاء الاصطناعي في منطقة الشرق الأوسط وشمال إفريقيا. أساعد الشركات على النمو والتحول الرقمي بربط التصميم المبتكر بالأنظمة البرمجية المستقلة.
+أوظّف أدوات الذكاء الاصطناعي باحتراف لإنتاج هويات بصرية، محتوى، ومواقع ويب لعملاء في منطقة الشرق الأوسط وشمال إفريقيا. أحوّل إمكانيات الذكاء الاصطناعي إلى نتائج تجارية حقيقية — بسرعة واستراتيجية واحترافية.
 
 ---
 
@@ -87,5 +87,5 @@ Next-generation AI-native web platform. It serves as my primary deployment lab f
 > المنصة البرمجية المتقدمة لإنتاج وتسيير العمليات المؤتمتة وأنظمة توليد الوسائط بالذكاء الاصطناعي.
 
 ### 3. 🏢 [VentureCycle Studio](https://github.com/ahmedissamramadan/venturecycle-studio)
-The digital storefront for VentureCycle Studio — an AI automation agency focusing on brand identity, web services, and intelligent workflows.
-> الواجهة الرقمية لوكالة VentureCycle Studio المتخصصة في بناء الهويات وأتمتة الأعمال بالذكاء الاصطناعي.
+The digital storefront for VentureCycle Studio — an AI-powered studio specializing in brand identity, content production, and web experiences for MENA clients.
+> الواجهة الرقمية لاستوديو VentureCycle — متخصص في الهوية البصرية، إنتاج المحتوى، وتجارب الويب لعملاء منطقة MENA.
