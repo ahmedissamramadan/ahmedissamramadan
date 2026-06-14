@@ -27,10 +27,12 @@ I build AI-powered brands, content pipelines, and automation systems tailored fo
 
 I have developed high-performance digital portfolios and web applications for professionals across various industries:
 
-*   **[Nagaty](https://github.com/ahmedissamramadan/nagaty)**: Emerging Markets Fintech & M&A Advisor Platform.
-*   **[Youstina Hany](https://github.com/ahmedissamramadan/youstinahany)**: Digital Marketing Instructor Portfolio.
-*   **[Hisham A. Elqenawy](https://github.com/ahmedissamramadan/hishamelqenawy)**: Medical Supply Chain & Procurement Portfolio.
-*   **[Ahmed Gouda](https://github.com/ahmedissamramadan/ahmedgoda)**: Interior Design & Renovation Portfolio.
+| Client | Industry / Niche | Project Focus | Link |
+|---|---|---|---|
+| **[Nagaty](https://github.com/ahmedissamramadan/nagaty)** | Fintech & M&A | Emerging Markets Advisor Platform | [View Project](https://github.com/ahmedissamramadan/nagaty) |
+| **[Youstina Hany](https://github.com/ahmedissamramadan/youstinahany)** | Digital Marketing | Professional Instructor Portfolio | [View Project](https://github.com/ahmedissamramadan/youstinahany) |
+| **[Hisham A. Elqenawy](https://github.com/ahmedissamramadan/hishamelqenawy)** | Medical Supply Chain | Procurement Specialist Portfolio | [View Project](https://github.com/ahmedissamramadan/hishamelqenawy) |
+| **[Ahmed Gouda](https://github.com/ahmedissamramadan/ahmedgoda)** | Interior Design | Renovation & Design Portfolio | [View Project](https://github.com/ahmedissamramadan/ahmedgoda) |
 
 ---
 
@@ -83,3 +85,7 @@ My unified professional portfolio and agency landing page. Built with native per
 ### 2. ⚡ [AIR](https://github.com/ahmedissamramadan/AIR)
 Next-generation AI-native web platform. It serves as my primary deployment lab for intelligent features, workflow routing, and automated media systems.
 > المنصة البرمجية المتقدمة لإنتاج وتسيير العمليات المؤتمتة وأنظمة توليد الوسائط بالذكاء الاصطناعي.
+
+### 3. 🏢 [VentureCycle Studio](https://github.com/ahmedissamramadan/venturecycle-studio)
+The digital storefront for VentureCycle Studio — an AI automation agency focusing on brand identity, web services, and intelligent workflows.
+> الواجهة الرقمية لوكالة VentureCycle Studio المتخصصة في بناء الهويات وأتمتة الأعمال بالذكاء الاصطناعي.
