@@ -71,7 +71,7 @@ I have developed high-performance digital portfolios and web applications for pr
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/ComfyUI-5B5B5B?style=for-the-badge" alt="ComfyUI">
   <img src="https://img.shields.io/badge/Gemini-8E7AB5?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/AI%20Automation-00A97F?style=for-the-badge&logo=robot&logoColor=white" alt="AI Automation">
+  <img src="https://img.shields.io/badge/Advanced%20AI-00A97F?style=for-the-badge&logo=sparkles&logoColor=white" alt="Advanced AI">
 </p>
 
 ---
