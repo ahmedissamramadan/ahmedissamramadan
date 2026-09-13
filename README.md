@@ -1,12 +1,12 @@
 <div align="center">
 
 # Ahmed Issam Ramadan (AIR)
-### AI-Native Systems Architect & Tech Entrepreneur
-**Founder, WASL Network & VentureCycle Studio**
+### AI-Native Systems Architect & Product Builder
+**Founder @ WASL Network | Building Autonomous AI Systems & Next.js Platforms**
 
-[![Living Chronicle](https://img.shields.io/badge/Living_Source_of_Truth-The_2026_Grand_Chronicle-amber?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ahmedissamramadan.github.io/the-2026-grand-chronicle/)
+[![WASL Network](https://img.shields.io/badge/Official_Platform-WASL_Network-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://www.wasl-network.com)
 [![Agent Skills Suite](https://img.shields.io/badge/Agent_Skills_Suite-Live_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedissamramadan/autonomous-agent-skills)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedissamramadan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedissamramadan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmdesam96-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmdesam96)
 [![X](https://img.shields.io/badge/X-ahmedissamramad-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmedissamramad)
 [![Email](https://img.shields.io/badge/Official_Work-ahmedissam.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedissam.work@gmail.com)
 
@@ -18,8 +18,6 @@
 
 I architect and ship **production-grade Autonomous AI Systems**, multi-agent orchestrations, and intelligent digital platforms. My core focus centers on replacing manual, fragmented workflows with deterministic multi-agent architectures, Model Context Protocol (MCP) integrations, robust database design, and high-converting frontend applications.
 
-All software development, full-stack web architecture, distributed data modeling, and enterprise automation competencies are **100% self-taught** through high-velocity venture execution and building mission-critical platforms from zero to production.
-
 ---
 
 ## 🏛️ Flagship Platforms & Ventures
@@ -28,7 +26,7 @@ All software development, full-stack web architecture, distributed data modeling
   <tr>
     <th width="35%">Platform / Venture</th>
     <th width="45%">Core Focus & Architecture</th>
-    <th width="20%">Live Access</th>
+    <th width="20%">Direct Link</th>
   </tr>
   <tr>
     <td>
@@ -39,19 +37,7 @@ All software development, full-stack web architecture, distributed data modeling
       Connects high-growth regional startups with 141+ vetted angel investors and VC funds. Built with Next.js 16 App Router, Supabase PostgreSQL, Row-Level Security (RLS), and multi-tenant RPCs.
     </td>
     <td>
-      <a href="https://wasl-network-five.vercel.app" target="_blank"><b>Live Platform</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📖 The 2026 Grand Chronicle</b><br>
-      <i>Living Encyclopedic Record</i>
-    </td>
-    <td>
-      Interactive annual system documenting verified professional milestones, AI architectures, and technical ecosystems. Built with Web Audio API micro-haptics, Canvas starfield particles, and schema-valid JSON-LD AEO/GEO grounding.
-    </td>
-    <td>
-      <a href="https://ahmedissamramadan.github.io/the-2026-grand-chronicle/" target="_blank"><b>Live System</b></a>
+      <a href="https://www.wasl-network.com" target="_blank"><b>wasl-network.com</b></a>
     </td>
   </tr>
   <tr>
@@ -105,24 +91,6 @@ Engineered for seamless interoperability across **Claude Code, Cursor, MCP Marke
 
 ---
 
-## 📜 Verified Credentials & Governance Record
-
-> [!NOTE]
-> **Governance Notice**: All software development and technical architecture competencies are self-taught and validated by practical production deliverables.
-> 
-> - **Official Completed ALX Credentials**:
->   - AI Career Essentials (AiCE)
->   - Project Management Crash Course
-> - **Accredited Industry Certifications**:
->   - Anthropic Claude 101 (Advanced Prompting & Context Architecture)
->   - National Telecom Institute (NTI) AI Ambassadors (Ministry of Communications and Information Technology)
->   - HubSpot Social Media Marketing II & Email Automation
->   - ITIDA Gigs Program & Digitera Tech for Non-Techies
-> - **Formal Academic Degree**:
->   - Bachelor of Laws (LL.B.), Zagazig University (2022) [Strictly Non-Practicing, No Bar Association Membership]
-
----
-
 ## 📊 GitHub Ecosystem Activity
 
 <div align="center">
@@ -135,8 +103,7 @@ Engineered for seamless interoperability across **Claude Code, Cursor, MCP Marke
 ## 🌐 Executive Communication & Inquiries
 
 - **Official Work Email:** [ahmedissam.work@gmail.com](mailto:ahmedissam.work@gmail.com)
-- **Personal Portfolio:** [ahmedissamramadan.github.io](https://ahmedissamramadan.github.io)
-- **Living Chronicle:** [the-2026-grand-chronicle](https://ahmedissamramadan.github.io/the-2026-grand-chronicle/)
-- **LinkedIn:** [linkedin.com/in/ahmedissamramadan](https://linkedin.com/in/ahmedissamramadan)
+- **Official Platform:** [www.wasl-network.com](https://www.wasl-network.com)
+- **LinkedIn:** [linkedin.com/in/ahmdesam96](https://linkedin.com/in/ahmdesam96)
 - **X (Twitter):** [@ahmedissamramad](https://x.com/ahmedissamramad)
 - **Telegram:** [@ahmedissam_bot](https://t.me/ahmedissam_bot)
